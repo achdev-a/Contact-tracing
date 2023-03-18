@@ -1,6 +1,6 @@
 # Contact Tracing App
 
-Sample Contact Tracing app built on Salesforce Platform.
+/*Sample Contact Tracing app built on Salesforce Platform.
 
 ![Contact_Tracing_App](https://github.com/choudharymanish8585/contact-tracing/blob/master/screenshots/screenshots.png)
 
@@ -42,4 +42,4 @@ The course is designed for all experience levels and covers Apex Development fro
 -   Authorize your Salesforce Org `sfdx force:auth:web:login -a TestOrg1`
 -   Deploy all metadata to your Salesforce Org `sfdx force:source:deploy -p force-app/main/default/`
 -   Assign permission set to current user `sfdx force:user:permset:assign -n Health_Admin`
--   Open Saleforce Org `sfdx force:org:open` and switch to "Contact Tracing" application
+-   Open Saleforce Org `sfdx force:org:open` and switch to "Contact Tracing" application*/
